@@ -1,7 +1,7 @@
 # 7strangers-bot
 Unofficial library for 7strangers bot
 
-[7Strangers](https://7strangers.com) is alternative to [Omegle](https://www.omegle.com/)
+[7Strangers](https://7strangers.com) is alternative to [Omegle](https://www.omegle.com/).
 Both websites are pretty much populated with bots, with the only difference omegle has much more users and settings and also videochat.
 
 ## Note
